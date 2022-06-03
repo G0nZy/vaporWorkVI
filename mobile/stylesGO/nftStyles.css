@@ -1,0 +1,268 @@
+
+#portalTexts{
+
+
+    margin-top: 10px;
+    /* font-family: fantasy; */
+    font-family: 'Lexend', sans-serif;
+  
+  } 
+  
+
+
+
+
+  .container11{
+    /* width: 100%; */
+    text-align: center;
+      /* margin-bottom: 50px;  */
+     margin-top: 15px;  
+     /* opacity: 10%; */
+     background-color: linen;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+     border-bottom-left-radius: 25px;
+     border-bottom-right-radius: 25px;
+     font-family: 'Lexend', sans-serif;
+     
+     }
+    
+     .container12{
+    
+      background-color: rgb(78, 126, 165);
+      color: white;
+    
+    /* width: 100%; */
+    text-align: center;
+      /* margin-bottom: 50px;  */
+     margin-top: 15px;  
+     /* opacity: 10%; */
+     
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+     border-bottom-left-radius: 25px;
+     border-bottom-right-radius: 25px;
+     font-family: 'Lexend', sans-serif;
+     
+     }
+
+
+
+     .button11 {
+        
+       text-align: center;
+       padding: 5px;
+       color: black;
+       
+       border-radius: 25px;
+       padding-top: 2%;
+       padding-bottom: 2%;
+       text-decoration: none;
+       margin-bottom: 30px;
+       font-size: 30px;
+       /* font-family: fantasy; */
+       font-family: 'Lexend', sans-serif;
+       
+       } 
+
+
+
+
+       #holding1Button{
+
+        margin-top: 25px;
+        
+        display: block;
+        margin: auto;
+        text-align: center;
+        /* margin-left: 50%; */
+        padding-bottom: 25px;
+        
+        }
+        
+
+        .btn2 {
+            margin-top: 25px;
+          color:inherit;
+            font-family:inherit;
+          font-size: inherit;
+          background: linen;
+          padding: 0.3rem 3.4rem;
+          border: 2px solid black;
+          margin-right: 2.6rem;
+          box-shadow: 0 0 0 black;
+          transition: all 0.2s;
+          display: block;
+          margin: auto;
+          text-align: center;
+          
+        } 
+        
+        .btn1{
+        
+        
+          background-color: rgb(78, 126, 165);
+        
+          margin-top: 25px;
+          color:inherit;
+            font-family:inherit;
+          font-size: inherit;
+        
+          padding: 0.3rem 3.4rem;
+          border: 2px solid black;
+          margin-right: 2.6rem;
+          box-shadow: 0 0 0 black;
+          transition: all 0.2s;
+          display: block;
+          margin: auto;
+          text-align: center;
+        
+        
+        
+        
+        }
+
+        
+        #portalTexts{
+
+
+            background-color: linen;
+           border-radius: 15px;
+           text-align: left;
+           margin-left: 20px;
+           margin-right: 8px;
+    
+          } 
+    
+          #portalTexts1{
+    
+           
+            border-radius: 15px;
+           text-align: left;
+           margin-left: 20px;
+           margin-right: 8px;
+          }
+         
+          #imgDepth{
+    
+          width: 100%;
+          height: 100%;
+          border-top-left-radius: 10px;
+          border-top-right-radius: 10px;
+          /* border-radius: 50px; */
+    
+    }
+        
+
+
+
+
+    .btn2 {
+        margin-top: 25px;
+      color:inherit;
+        font-family:inherit;
+      font-size: inherit;
+      background: linen;
+      padding: 0.3rem 3.4rem;
+      border: 2px solid black;
+      margin-right: 2.6rem;
+      box-shadow: 0 0 0 black;
+      transition: all 0.2s;
+      display: block;
+      margin: auto;
+      text-align: center;
+      
+    } 
+    
+    .btn1{
+    
+    
+      background-color: rgb(78, 126, 165);
+    
+      margin-top: 25px;
+      color:inherit;
+        font-family:inherit;
+      font-size: inherit;
+    
+      padding: 0.3rem 3.4rem;
+      border: 2px solid black;
+      margin-right: 2.6rem;
+      box-shadow: 0 0 0 black;
+      transition: all 0.2s;
+      display: block;
+      margin: auto;
+      text-align: center;
+    
+    
+    
+    
+    }
+    
+    
+    
+    
+    /* DEMO STYLE SWIPER */
+    
+          html,
+          body {
+            position: relative;
+            height: 100%;
+          }
+    
+          body {
+            /* background: #eee; */
+            font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            color: #000;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(90deg, rgb(145, 145, 145), rgb(130, 125, 201)); 
+
+          }
+    
+          .swiper {
+            width: 100%;
+            padding-top: 50px;
+            padding-bottom: 50px;
+          }
+    
+          .swiper-slide {
+            background-position: center; 
+            background-size: cover; 
+            width: 75%;
+            height: 75%; 
+            /* border-radius: 25px; */
+            
+          }
+    
+         
+    
+            #portalTexts{
+    
+    
+            background-color: linen;
+           border-radius: 15px;
+           text-align: left;
+           margin-left: 20px;
+           margin-right: 8px;
+    
+          } 
+    
+          #portalTexts1{
+    
+           
+            border-radius: 15px;
+           text-align: left;
+           margin-left: 20px;
+           margin-right: 8px;
+          }
+         
+          #imgDepth{
+    
+          width: 100%;
+          height: 100%;
+          border-top-left-radius: 10px;
+          border-top-right-radius: 10px;
+          /* border-radius: 50px; */
+    
+    }

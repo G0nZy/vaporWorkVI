@@ -1,0 +1,202 @@
+/* ENTRIES MAIN */
+#aboutMeFieldBox {
+    margin-top: 3%;
+    /* border: solid; */
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    /* background-color: linen; */
+    /* border: .5px solid rgb(110, 110, 110); */
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    font-family: 'Lexend', sans-serif;
+}
+#aboutMeFieldBox1 {
+margin-top: 3%;
+border: solid;
+text-align: left;
+margin-left: 5%;
+margin-right: 5%;
+background-color: linen;
+border: .5px solid rgb(110, 110, 110);
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+font-family: 'Lexend', sans-serif;
+}
+#aboutMeHeading{
+    margin-left: 10%;
+    font-family: 'Lexend', sans-serif;
+}
+ #underLine{
+    margin-left: 10%;
+    margin-right:10%;
+    font-family: 'Lexend', sans-serif;
+} 
+#aboutMeText{
+    text-align: center;
+    /* border: solid; */
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Lexend', sans-serif;
+} 
+li{
+list-style:none;
+}
+#topicLink1{
+color: rgb(0, 58, 105); 
+/* color: rgb(155, 155, 155); */
+margin-top: 15px;
+font-size: 18px;
+text-decoration: underline;
+cursor: pointer;
+font-family: 'Lexend', sans-serif;
+}
+body {
+background-color: rgb(218, 224, 231); 
+}
+#dateLog {
+font-size: 13px;
+font-family: 'Lexend', sans-serif;
+}
+/* END OF ENTRIES MAIN */
+
+
+
+/* JOURNAL */
+#journalHeadBox {
+    margin-top: 3%;
+    /* border: solid; */
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    /* background-color: linen; */
+    /* border: .5px solid rgb(110, 110, 110); */
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    font-family: 'Lexend', sans-serif;
+}
+
+#journalHeading{
+    margin-left: 8%;
+    color: #373737;
+    margin-top: 4%;
+    font-family: 'Lexend', sans-serif;
+}
+#underLineJ{
+    margin-left: 8%;
+    margin-right:10%;
+    font-family: 'Lexend', sans-serif;
+} 
+#date{
+    margin-left: 10%;
+    font-family: 'Lexend', sans-serif;
+}
+#journalText{
+    text-align:left;
+    margin-left: 4%;
+    margin-right: 2%;
+    color: #373737;
+    font-family: 'Lexend', sans-serif;
+} 
+.textImg{
+
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 2%;
+    max-width: 80%;
+
+}
+.textImgT{
+
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 2%;
+}
+#journalTextT{
+    text-align:left;
+    margin-left: 4%;
+    margin-right: 2%;
+    color: #373737;
+    font-family: 'Lexend', sans-serif;
+    text-decoration: underline;
+} 
+
+#journalHeadBox1 {
+
+margin-top: 3%;
+border: solid;
+text-align: left;
+margin-left: 8%;
+margin-right: 8%;
+background-color: linen;
+border: .5px solid rgb(110, 110, 110);
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+font-family: 'Lexend', sans-serif;
+margin-bottom: 25px;
+}
+
+#journalSubTitle{
+
+    margin-left: 7%;
+    text-decoration: underline;
+    color: #373737;
+    margin-top: 4%;
+    font-family: 'Lexend', sans-serif;
+}
+li{
+list-style:none;
+}
+/* END OF JOURNAL */
+
+/* CALL TO ACTION */
+
+#holdingButton{
+      
+    margin-top: 25px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    /* margin-left: 50%; */
+    font-family: 'Lexend', sans-serif;
+    color: #444444;
+ }
+ 
+ .btn {
+ margin-top: 25px;
+ color:inherit;
+ /* font-family:inherit;
+ font-size: inherit; */
+ background: rgb(192, 182, 182);
+ /* background:rgb(0, 58, 105); */
+ color: rgb(36, 36, 36);
+ padding: 0.3rem 3.4rem;
+ border: 2px solid rgb(39, 39, 39);
+ margin-right: 2.6rem;
+ box-shadow: 0 0 0 rgb(22, 22, 22);
+ transition: all 0.2s;
+ display: block;
+ margin: auto;
+ text-align: center;
+ font-family: 'Lexend', sans-serif;
+ opacity: 75%;
+ border-radius: 25px;
+ color: #e6e6e6;
+ } 
+ .btn:hover {
+ box-shadow: 0.4rem 0.4rem 0 rgb(169, 99, 179);
+ transform: translate(-0.4rem, -0.4rem);
+ opacity: 100%;
+ }
+/* END OF CALL ACTION */
+
+/* END OF JOURNAL ENTRIES */

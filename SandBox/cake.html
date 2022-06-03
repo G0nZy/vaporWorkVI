@@ -1,0 +1,108 @@
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>g0nzy</title>
+
+</head>
+<body>
+    
+
+
+
+
+
+<!-- PORTALS -->
+
+          <div class="containerMan">
+
+            <div class="column"><p >About Me</p><img class="imgDumb"  alt="why is this needed"src="../img/heroCopy.png" id="pic1" onclick="window.location.href='../index.html';">
+                </div>
+            
+            <div class="column"> <p >XR Experiences</p>
+                  <img class="imgDumb"src="../img/nowIn3D.png">
+                  </div>
+                  
+                  
+            <div class="column"><img class="imgDumb"src="../img/pixel art II.png" >
+                <p >Portfolio </p>
+                </div> 
+           
+            <!-- <div class="column"> <p >XR Experiences</p>
+                <img class="imgDumb"src="../img/nowIn3D.png">
+                </div> -->
+            
+            <div class="column"> <img  class="imgDumb"src="../img/halo boy IV.png" >
+                <p >NFT Showcase</p>
+                </div> 
+
+          </div>
+
+<!-- END OF PORTALS -->
+ 
+
+
+
+
+
+<script>
+
+document.getElementByID("pic1").onclick = function(){myFunction11()};
+function myFunction11(){
+    window.location.href = "../index.html";
+};
+
+</script>
+
+
+
+
+
+
+
+
+<style>
+
+
+  .containerMan{
+
+  display: flex;
+  margin-left: 20%;
+  margin-right: 20%;
+  }
+
+  .column{
+
+    flex: 33.33%;
+    padding: 5px;
+
+  }
+
+
+  .imgDumb{
+
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 15px;
+
+  }
+
+
+  .imgDumb:hover {
+   transform: scale(1.2);
+   margin-top: 35px;
+   margin-bottom: 30px; 
+   cursor: pointer;
+  } 
+
+
+</style>
+
+
+
+
+
+</body>
+</html>
