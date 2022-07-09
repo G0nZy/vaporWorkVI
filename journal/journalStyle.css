@@ -125,7 +125,7 @@ font-family: 'Lexend', sans-serif;
     text-align:left;
     margin-left: 4%;
     margin-right: 2%;
-    color: #373737;
+    color: #000000;
     font-family: 'Lexend', sans-serif;
     text-decoration: underline;
 } 
@@ -138,6 +138,7 @@ text-align: left;
 margin-left: 8%;
 margin-right: 8%;
 background-color: linen;
+background-color: rgb(242, 223, 206);
 border: .5px solid rgb(110, 110, 110);
 border-bottom-left-radius: 25px;
 border-bottom-right-radius: 25px;
@@ -151,7 +152,7 @@ margin-bottom: 25px;
 
     margin-left: 7%;
     text-decoration: underline;
-    color: #373737;
+    color: #000000;
     margin-top: 4%;
     font-family: 'Lexend', sans-serif;
 }
