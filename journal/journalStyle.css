@@ -197,9 +197,10 @@ list-style:none;
  color: #e6e6e6;
  } 
  .btn:hover {
- box-shadow: 0.4rem 0.4rem 0 rgb(169, 99, 179);
+ box-shadow: 0.4rem 0.4rem 0 rgb(64, 66, 106);
  transform: translate(-0.4rem, -0.4rem);
  opacity: 100%;
+ color: white;
  }
 /* END OF CALL ACTION */
 
