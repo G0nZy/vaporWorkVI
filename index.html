@@ -17,7 +17,7 @@
 <body>
     
 <!-- NAVBAR -->
-    <nav class="navbar navbar-expand-xxl navbar-light navStyle navBoi"  style="background-color: rgb(0, 58, 105);"> <!-- orignal color was steelblue-->
+    <nav class="navbar navbar-expand-xxl navbar-light navStyle navBoi"  style="background-color: #5787ff;"> <!-- orignal color was steelblue-->
         <div class="container-fluid" >
           <a class="navbar-brand" href="./index.html" style="color: white;"></a>
         </div>
@@ -198,6 +198,51 @@ opacity: 100%;
 
 </style> -->
 
+<div class="comicRow">
+  
+<div class="comicColumn">
+  <img src="./img/haloBoyV.jpg" alt="">
+</div>
+
+<div id="comicDiv"class="comicColumn">
+  <p id="comicTitle">Titles</p>
+  <p id="comicDescription">Description</p>
+</div>
+
+</div>
+
+
+<style>
+  .comicRow{
+    display: flex;
+    font-family: 'Lexend', sans-serif;
+  }
+
+  .comicColumn{
+    flex: 50%;
+  }
+
+  #comicDiv{
+    display: inline;
+  }
+/* 
+#comicTitle{
+  display: inline;
+}
+
+#comicDescription{
+  display: inline;
+} */
+
+
+</style>
+
+
+
+
+
+
+
 
 <div class="flip-card">
   <div class="flip-card-inner">
@@ -258,7 +303,7 @@ opacity: 100%;
 
 /* Style the back side */
 .flip-card-back {
-  background-color: #003A69;
+  background-color: #5787ff;
   color: white;
   transform: rotateY(180deg);
 } 
